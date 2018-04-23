@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" TestRunTimeLimit="3" >
+	<Applications>
+		<!-- Win -->
+		<Application
+			Name="E527Win"
+			FileName="[ConfigPath]\..\WinSolution.Win\Bin\Debug\WinSolution.Win.exe"
+			AdapterAssemblyName="DevExpress.ExpressApp.EasyTest.WinAdapter.v13.1, Version=13.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+			CommunicationPort="4100"/>
+	</Applications>
+	<TestDatabases>
+		<Database xsi:type="TestMSSQLDatabase" Server="(local)" Name="E527" DBName="E527_EasyTest" />
+	</TestDatabases>
+</Options>
