@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [E527.ets](./CS/E527.EasyTests/E527.ets) (VB: [E527.ets](./VB/E527.EasyTests/E527.ets))
+* **[PromptClosingLastMainWindowController.cs](./CS/WinSolution.Module.Win/PromptClosingLastMainWindowController.cs) (VB: [PromptClosingLastMainWindowController.vb](./VB/WinSolution.Module.Win/PromptClosingLastMainWindowController.vb))**
+<!-- default file list end -->
 # How to prompt when the user is about to exit a WinForms application
 
 
