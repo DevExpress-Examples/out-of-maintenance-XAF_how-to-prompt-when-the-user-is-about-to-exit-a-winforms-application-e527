@@ -5,7 +5,7 @@
 		<Application
 			Name="E527Win"
 			FileName="[ConfigPath]\..\WinSolution.Win\Bin\Debug\WinSolution.Win.exe"
-			AdapterAssemblyName="DevExpress.ExpressApp.EasyTest.WinAdapter.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+			AdapterAssemblyName="DevExpress.ExpressApp.EasyTest.WinAdapter.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 			CommunicationPort="4100"/>
 	</Applications>
 	<TestDatabases>
